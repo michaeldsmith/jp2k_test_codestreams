@@ -3,3 +3,18 @@ mm.ppm and mm.pgm are crops from an unknown source
 monarch.pgm is taken from https://www.hlevkin.com/hlevkin/06testimages.htm and converted to grey scale
 foreman is the first frame from the fameous foreman video test sequence
 
+Y 1-channel files
+palm_tree_Y_16bit.tif
+palm_tree_Y_8bit.tif
+
+YA 2-channel TIF files
+palm_tree_YA_16bit_ExtraSamples.tif
+palm_tree_YA_8bit_ExtraSamples.tif
+
+RGB 3-channel TIF files
+palm_tree_RGB_16bit_contig.tif
+palm_tree_RGB_8bit_contig.tif
+
+RGBA 4-channel TIF files
+palm_tree_RGBA_16bit_contig_ExtraSamples.tif
+palm_tree_RGBA_8bit_contig_ExtraSamples.tif
